@@ -1,7 +1,7 @@
 <h1 align="center">嗨👋，我是Sclock</h1>
 <h3 align="center">放弃</h3>
 
-<p align="left"> <img src="[https://komarev .com/ghpvc/?username=sclock&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/32418823?s=400&u=95dd93589d41f8a15689addcdbe87e953555efd0&v=4)" alt="sclock" /> </p>
+<p align="left"> <img src="[https://avatars.githubusercontent.com/u/32418823?s=400&u=95dd93589d41f8a15689addcdbe87e953555efd0&v=4](Sclock)" alt="sclock" /> </p>
 
 <h3 align="left">联系我：</h3>
 <p align=" left">
